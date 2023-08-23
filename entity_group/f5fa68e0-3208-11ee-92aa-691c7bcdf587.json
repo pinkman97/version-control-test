@@ -54,7 +54,7 @@
       "entityType" : "ENTITY_GROUP",
       "id" : "f5fa68e0-3208-11ee-92aa-691c7bcdf587"
     },
-    "name" : "Device Group 1 (By Tenant)",
+    "name" : "Device Group 1 (By )",
     "ownerId" : {
       "entityType" : "TENANT",
       "id" : "a9f464b0-3207-11ee-92aa-691c7bcdf587"
