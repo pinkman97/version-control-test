@@ -1,0 +1,28 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "a4148740-3208-11ee-92aa-691c7bcdf587"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "ed104450-350c-11ee-8b98-5bf437bdb592"
+    },
+    "label" : null,
+    "name" : "Asset 1",
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "a4148740-3208-11ee-92aa-691c7bcdf587"
+    },
+    "type" : "test"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
